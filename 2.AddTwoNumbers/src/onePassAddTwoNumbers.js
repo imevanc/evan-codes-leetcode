@@ -15,13 +15,14 @@ var addTwoNumbers = function (l1, l2) {
 
   while (l1 || l2 || carry) {
     let sum = (l1 ? l1.val : 0) + (l2 ? l2.val : 0) + carry;
-    let transformedSum = sum >= 10 ? sum % 10 : sum;
-    additionNode.next = new ListNode(transformedSum);
-    carry = sum >= 10 ? Math.floor(sum / 10) : 0;
+    carry = Math.floor(sum / 10);
+    sum %= 10;
+    ansNode.next = new ListNode(sum);
+
     l1 = l1 ? l1.next : null;
     l2 = l2 ? l2.next : null;
-    additionNode = additionNode.next;
+    ansNode = ansNode.next;
   }
 
-  return ansNode.next;
+  return additionNode.next;
 };
