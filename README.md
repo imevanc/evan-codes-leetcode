@@ -5,6 +5,7 @@
 
 ## EASY
 1. [1.TwoSum](https://github.com/imevanc/evan-codes-leetcode/tree/main/1.TwoSum)
+2. [9.PalindromeNumber](https://github.com/imevanc/evan-codes-leetcode/tree/main/9.PalindromeNumber)
 
 ## MEDIUM
 1. [2.AddTwoNumbers](https://github.com/imevanc/evan-codes-leetcode/tree/main/2.AddTwoNumbers)
