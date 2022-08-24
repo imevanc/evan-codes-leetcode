@@ -4,11 +4,12 @@
 
 
 ## EASY
-1. [1.TwoSum](https://github.com/imevanc/evan-codes-leetcode/tree/main/1.TwoSum)
-2. [9.PalindromeNumber](https://github.com/imevanc/evan-codes-leetcode/tree/main/9.PalindromeNumber)
+1. [1.TwoSum](https://github.com/imevanc/evan-codes-leetcode/tree/main/1.TwoSum/src)
+2. [9.PalindromeNumber](https://github.com/imevanc/evan-codes-leetcode/tree/main/9.PalindromeNumber/src)
+3. [13.RomanToInteger](https://github.com/imevanc/evan-codes-leetcode/blob/main/13.RomanToInteger/src)
 
 ## MEDIUM
-1. [2.AddTwoNumbers](https://github.com/imevanc/evan-codes-leetcode/tree/main/2.AddTwoNumbers)
+1. [2.AddTwoNumbers](https://github.com/imevanc/evan-codes-leetcode/tree/main/2.AddTwoNumbers/src)
 
 ## HARD
 1. _Coming soon_
