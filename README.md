@@ -9,8 +9,6 @@
 3. [13.RomanToInteger](https://github.com/imevanc/evan-codes-leetcode/blob/main/13.RomanToInteger/src)
 4. [14.LongestCommonPrefix](https://github.com/imevanc/evan-codes-leetcode/tree/main/14.LongestCommonPrefix/src) 
 5. [21.MergeTwoSortedLists](https://github.com/imevanc/evan-codes-leetcode/tree/main/21.MergeTwoSortedLists/src)
-6. 58.LengthOfLastWord - premieres on 3 Sept @ 20:00 UTC
-7. 27.RemoveElement - premieres on 3 Sept @ 21:00 UTC
 
 ## MEDIUM
 1. [2.AddTwoNumbers](https://github.com/imevanc/evan-codes-leetcode/tree/main/2.AddTwoNumbers/src)
