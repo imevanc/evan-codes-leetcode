@@ -9,6 +9,7 @@
 3. [13.RomanToInteger](https://github.com/imevanc/evan-codes-leetcode/blob/main/13.RomanToInteger/src)
 4. [14.LongestCommonPrefix](https://github.com/imevanc/evan-codes-leetcode/tree/main/14.LongestCommonPrefix/src) 
 5. [21.MergeTwoSortedLists](https://github.com/imevanc/evan-codes-leetcode/tree/main/21.MergeTwoSortedLists/src)
+6. [242.ValidAnagram](https://github.com/imevanc/evan-codes-leetcode/tree/main/242.ValidAnagram/src)
 
 ## MEDIUM
 1. [2.AddTwoNumbers](https://github.com/imevanc/evan-codes-leetcode/tree/main/2.AddTwoNumbers/src)
