@@ -10,9 +10,11 @@
 4. [14.LongestCommonPrefix](https://github.com/imevanc/evan-codes-leetcode/tree/main/14.LongestCommonPrefix/src) 
 5. [21.MergeTwoSortedLists](https://github.com/imevanc/evan-codes-leetcode/tree/main/21.MergeTwoSortedLists/src)
 6. [242.ValidAnagram](https://github.com/imevanc/evan-codes-leetcode/tree/main/242.ValidAnagram/src)
+7. [206.ReverseLinkedList](https://github.com/imevanc/evan-codes-leetcode/tree/main/206.ReverseLinkedList/src) - premieres on Sept 10 @ 12:30 UTC
 
 ## MEDIUM
 1. [2.AddTwoNumbers](https://github.com/imevanc/evan-codes-leetcode/tree/main/2.AddTwoNumbers/src)
+2. [92.ReverseLinkedListII] - premieres on Sept 10 @ 19:00 UTC
 
 ## HARD
 1. _Coming soon_
