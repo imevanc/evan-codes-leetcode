@@ -14,7 +14,7 @@
 
 ## MEDIUM
 1. [2.AddTwoNumbers](https://github.com/imevanc/evan-codes-leetcode/tree/main/2.AddTwoNumbers/src)
-2. [92.ReverseLinkedListII]
+2. [92.ReverseLinkedListII](https://github.com/imevanc/evan-codes-leetcode/tree/main/92.ReverseLinkedListII/src)
 
 ## HARD
 1. _Coming soon_
