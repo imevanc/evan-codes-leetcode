@@ -11,7 +11,7 @@
 5. [21.MergeTwoSortedLists](https://github.com/imevanc/evan-codes-leetcode/tree/main/21.MergeTwoSortedLists/src)
 6. [242.ValidAnagram](https://github.com/imevanc/evan-codes-leetcode/tree/main/242.ValidAnagram/src)
 7. [206.ReverseLinkedList](https://github.com/imevanc/evan-codes-leetcode/tree/main/206.ReverseLinkedList/src)
-8. [20. Valid Parentheses] - premieres on Sept 20 @ 14:00 UTC
+8. [20. Valid Parentheses] (https://github.com/imevanc/evan-codes-leetcode/tree/main/20.ValidParentheses/src)
 
 ## MEDIUM
 1. [2.AddTwoNumbers](https://github.com/imevanc/evan-codes-leetcode/tree/main/2.AddTwoNumbers/src)
