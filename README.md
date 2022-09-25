@@ -12,6 +12,7 @@
 6. [242.ValidAnagram](https://github.com/imevanc/evan-codes-leetcode/tree/main/242.ValidAnagram/src)
 7. [206.ReverseLinkedList](https://github.com/imevanc/evan-codes-leetcode/tree/main/206.ReverseLinkedList/src)
 8. [20.ValidParentheses](https://github.com/imevanc/evan-codes-leetcode/tree/main/20.ValidParentheses/src)
+9. [83.RemoveDuplicatesFromSortedList](https://github.com/imevanc/evan-codes-leetcode/tree/main/83.RemoveDuplicatesFromSortedList/src)
 
 ## MEDIUM
 1. [2.AddTwoNumbers](https://github.com/imevanc/evan-codes-leetcode/tree/main/2.AddTwoNumbers/src)
