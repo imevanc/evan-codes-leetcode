@@ -8,7 +8,6 @@ var isPalindrome = function (s) {
     .split("")
     .filter((el) => el.charAt(0).match(/[a-zA-Z0-9]/))
     .join("");
-  console.log(sLowerCaseAndAlpha);
   let left = 0;
   let right = sLowerCaseAndAlpha.length - 1;
   while (left <= right) {
