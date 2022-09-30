@@ -15,6 +15,7 @@
 9. [83.RemoveDuplicatesFromSortedList](https://github.com/imevanc/evan-codes-leetcode/tree/main/83.RemoveDuplicatesFromSortedList/src)
 10. [125.ValidPalindrome](https://github.com/imevanc/evan-codes-leetcode/tree/main/125.ValidPalindrome/src)
 11. [141.LinkedListCycle](https://github.com/imevanc/evan-codes-leetcode/tree/main/141.LinkedListCycle/src)
+12. [203.RemoveLinkedListElements] - premieres on Oct 2 @ 14:00 UTC
 
 ## MEDIUM
 1. [2.AddTwoNumbers](https://github.com/imevanc/evan-codes-leetcode/tree/main/2.AddTwoNumbers/src)
