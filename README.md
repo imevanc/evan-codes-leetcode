@@ -18,6 +18,8 @@
 12. [203.RemoveLinkedListElements](https://github.com/imevanc/evan-codes-leetcode/tree/main/203.RemoveLinkedListElements/src)
 13. [1480.RunningSomeOf1dArray] - premieres on Oct 12 @ 14:00 UTC
 14. [724.FindPivotIndex] - premiers on Oct 12 @ 20:00 UTC
+15. [205.IsomorphicStrings] - premiers on Oct 13 @ 14:00 UTC
+16. [392.IsSubsequence] - premieres on Oct 13 @ 20:00 UTC
 
 ## MEDIUM
 1. [2.AddTwoNumbers](https://github.com/imevanc/evan-codes-leetcode/tree/main/2.AddTwoNumbers/src)
