@@ -2,6 +2,9 @@
 
 👋 👋 I update regurarly this repo with my solutions of leetcode questions. Use these files and the corresponding videos, if you want to see my Javascript code. The problems are divided into three categories (ie easy, medium and hard) and you can find them attached below under the correct section. Cheers! 🙏🙏 
 
+### Contributions
+I am more than happy to consider contributors to this project - esp in Python, Kotlin & Swift. DM me on twitter.
+
 
 ## EASY
 1. [1.TwoSum](https://github.com/imevanc/evan-codes-leetcode/tree/main/1.TwoSum/src)
