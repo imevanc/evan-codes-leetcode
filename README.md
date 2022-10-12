@@ -17,8 +17,8 @@
 11. [141.LinkedListCycle](https://github.com/imevanc/evan-codes-leetcode/tree/main/141.LinkedListCycle/src)
 12. [203.RemoveLinkedListElements](https://github.com/imevanc/evan-codes-leetcode/tree/main/203.RemoveLinkedListElements/src)
 13. [1480.RunningSomeOf1dArray](https://github.com/imevanc/evan-codes-leetcode/tree/main/1480.RunningSumOf1dArray/src)
-14. [724.FindPivotIndex] - premiers on Oct 12 @ 20:00 UTC
-15. [205.IsomorphicStrings] - premiers on Oct 13 @ 14:00 UTC
+14. [724.FindPivotIndex] - premieres on Oct 12 @ 20:00 UTC
+15. [205.IsomorphicStrings] - premieres on Oct 13 @ 14:00 UTC
 16. [392.IsSubsequence] - premieres on Oct 13 @ 20:00 UTC
 
 ## MEDIUM
