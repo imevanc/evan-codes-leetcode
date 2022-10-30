@@ -22,7 +22,7 @@ I am more than happy to consider contributors to this project - esp in Python, K
 13. [1480.RunningSomeOf1dArray](https://github.com/imevanc/evan-codes-leetcode/tree/main/1480.RunningSumOf1dArray/src)
 14. [724.FindPivotIndex](https://github.com/imevanc/evan-codes-leetcode/blob/main/724.FindPivotIndex/src)
 15. [205.IsomorphicStrings](https://github.com/imevanc/evan-codes-leetcode/tree/main/205.IsomorphicStrings/src)
-16. [392.IsSubsequence] - premieres on Oct 29 @ 20:00 UTC
+16. [392.IsSubsequence](https://github.com/imevanc/evan-codes-leetcode/tree/main/392.IsSubsequence/src)
 
 ## MEDIUM
 1. [2.AddTwoNumbers](https://github.com/imevanc/evan-codes-leetcode/tree/main/2.AddTwoNumbers/src)
