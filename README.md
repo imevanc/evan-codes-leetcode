@@ -23,6 +23,7 @@ I am more than happy to consider contributors to this project - esp in Python, K
 14. [724.FindPivotIndex](https://github.com/imevanc/evan-codes-leetcode/blob/main/724.FindPivotIndex/src)
 15. [205.IsomorphicStrings](https://github.com/imevanc/evan-codes-leetcode/tree/main/205.IsomorphicStrings/src)
 16. [392.IsSubsequence](https://github.com/imevanc/evan-codes-leetcode/tree/main/392.IsSubsequence/src)
+17. [876.MiddleOfTheLinkedList] - premieres on Nov 1 @ 14:00 UTC
 
 ## MEDIUM
 1. [2.AddTwoNumbers](https://github.com/imevanc/evan-codes-leetcode/tree/main/2.AddTwoNumbers/src)
