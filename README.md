@@ -8,7 +8,8 @@
 I am more than happy to consider contributors to this project - esp in Python, Kotlin & Swift. DM me on twitter.
 
 
-## EASY
+## JavaScript
+### EASY
 1. [1.TwoSum](https://github.com/imevanc/evan-codes-leetcode/tree/main/1.TwoSum/src)
 2. [9.PalindromeNumber](https://github.com/imevanc/evan-codes-leetcode/tree/main/9.PalindromeNumber/src)
 3. [13.RomanToInteger](https://github.com/imevanc/evan-codes-leetcode/blob/main/13.RomanToInteger/src)
@@ -27,9 +28,10 @@ I am more than happy to consider contributors to this project - esp in Python, K
 16. [392.IsSubsequence](https://github.com/imevanc/evan-codes-leetcode/tree/main/392.IsSubsequence/src)
 17. [876.MiddleOfTheLinkedList](https://github.com/imevanc/evan-codes-leetcode/tree/main/876.MiddleOfTheLinkedList/src)
 
-## MEDIUM
+### MEDIUM
 1. [2.AddTwoNumbers](https://github.com/imevanc/evan-codes-leetcode/tree/main/2.AddTwoNumbers/src)
 2. [92.ReverseLinkedListII](https://github.com/imevanc/evan-codes-leetcode/tree/main/92.ReverseLinkedListII/src)
 
-## HARD
+### HARD
 1. _Coming soon_
+
