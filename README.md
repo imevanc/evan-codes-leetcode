@@ -1,7 +1,9 @@
 # Evan-Codes-Leetcode
 
 <strong> <s> New Video in February </s> </strong>
-<strong> Unfortunately, I need to postpone the next video until later this year. I'm currently working on [Pet-Pal](https://github.com/imevanc/pet-pal). </strong>
+<strong> <s> Unfortunately, I need to postpone the next video until later this year. I'm currently working on [Pet-Pal](https://github.com/imevanc/pet-pal). </s> </strong>
+
+<strong>New LeetCode video is coming soon.</strong>
 
 👋 👋 I update regurarly this repo with my solutions of leetcode questions. Use these files and the corresponding videos, if you want to see my Javascript code. The problems are divided into three categories (ie easy, medium and hard) and you can find them attached below under the correct section. Cheers! 🙏🙏 
 
